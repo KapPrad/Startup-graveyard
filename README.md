@@ -17,27 +17,6 @@ This repository contains a full Tableau-based business intelligence project anal
 - Microsoft Word (Research Report)
 - Excel (Data Cleaning)
 
-## 📁 Folder Structure
-
-- `/data`: Original CSV dataset
-- `/dashboard`: Tableau workbook (.twbx)
-- `/images`: Exported visuals used in dashboard and report
-- `/scripts`: Python preprocessing (optional)
-- `/docs`: Presentation and report files
-
-## 📸 Key Visuals
-
-![Treemap of Failure Reasons](images/treemap.png)  
-![Sector Survival Bracket](images/survival_matrix.png)
-
-## 📄 Final Report
-
-> 🔗 [View the full research report here](docs/Startup_Failure_Report.pdf)
-
-## 🎥 Demo or Screenshots
-
-You can view selected screenshots in `/images`.  
-Coming soon: Tableau Public link.
 
 ---
 
@@ -52,5 +31,5 @@ Coming soon: Tableau Public link.
 
 ## 📬 Contact
 
-Made with 💡 by [Your Name]  
-[LinkedIn] | [Email] | [Portfolio]
+Made with 💡 by PradneshKapte 
+[[LinkedIn](https://www.linkedin.com/in/pradnesh-kapte/)] | [pradneshkapte@gmail.com] |
