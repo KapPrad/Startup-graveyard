@@ -1,0 +1,409 @@
+Sector,Giants,No Budget,Competition,Poor Market Fit,Acquisition Stagnation,Platform Dependency,Monetization Failure,Niche Limits,Execution Flaws,Trend Shifts,Toxicity/Trust Issues,Regulatory Pressure,Overhype,Start Year,End Year,Years in Business,Primary_Reason,Failure_Type,Survival_Bracket,Failure_Count,Color_Reason_Label,Random_Country
+Finance and Insurance,1,1,1,0,0,0,0,0,0,0,0,0,0,2012,2023,11,Giants,Internal,Long,3,Giants,China
+Finance and Insurance,1,0,1,1,0,0,0,0,0,0,0,0,0,2002,2008,6,Giants,Internal,Mid,3,Giants,UK
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2006,2011,5,Giants,Internal,Mid,3,Giants,Australia
+Finance and Insurance,1,0,1,0,0,0,0,0,0,1,0,0,0,2013,2023,10,Giants,Internal,Long,3,Giants,Brazil
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2016,2022,6,Giants,Internal,Mid,3,Giants,China
+Finance and Insurance,1,0,1,0,0,0,0,0,1,0,0,0,1,2011,2016,5,Giants,Internal,Mid,4,Giants,Japan
+Finance and Insurance,1,0,1,0,0,0,0,0,0,1,0,0,0,2021,2023,2,Giants,Internal,Short,3,Giants,Germany
+Finance and Insurance,1,0,1,0,0,0,1,0,0,0,0,0,0,2012,2022,10,Giants,Internal,Long,3,Giants,China
+Finance and Insurance,1,0,1,0,0,0,0,1,0,0,0,0,0,2010,2016,6,Giants,Internal,Mid,3,Giants,Australia
+Finance and Insurance,1,0,1,1,0,0,0,1,0,0,0,0,0,2014,2019,5,Giants,Internal,Mid,4,Giants,Brazil
+Finance and Insurance,1,0,1,1,0,0,0,0,0,0,0,0,0,2012,2020,8,Giants,Internal,Long,3,Giants,UK
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,1,1,0,2012,2021,9,Giants,Internal,Long,4,Giants,Australia
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,1,0,0,2006,2021,15,Giants,Internal,Long,3,Giants,Australia
+Finance and Insurance,1,0,1,0,1,0,0,1,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,4,Giants,Germany
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,0,0,2008,2018,10,Giants,Internal,Long,2,Giants,Canada
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,0,0,2012,2020,8,Giants,Internal,Long,2,Giants,Brazil
+Finance and Insurance,1,0,1,1,0,0,0,0,0,0,0,0,0,2005,2008,3,Giants,Internal,Mid,3,Giants,India
+Finance and Insurance,1,0,1,0,0,0,0,0,1,0,0,0,0,2008,2017,9,Giants,Internal,Long,3,Giants,Australia
+Finance and Insurance,0,0,1,1,0,0,0,1,0,0,0,0,0,2011,2017,6,Competition,Internal,Mid,3,Competition,Canada
+Finance and Insurance,1,0,1,0,0,0,0,0,1,0,0,0,0,2002,2007,5,Giants,Internal,Mid,3,Giants,India
+Finance and Insurance,1,0,1,1,0,0,0,0,0,0,0,0,0,2015,2020,5,Giants,Internal,Mid,3,Giants,Brazil
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2009,2013,4,Giants,Internal,Mid,3,Giants,USA
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2010,2017,7,Giants,Internal,Long,3,Giants,Japan
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,1,0,0,2003,2018,15,Giants,Internal,Long,3,Giants,Canada
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,0,0,2012,2017,5,Giants,Internal,Mid,2,Giants,France
+Finance and Insurance,1,0,1,1,0,0,0,1,0,0,0,0,0,2016,2020,4,Giants,Internal,Mid,4,Giants,USA
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2007,2018,11,Giants,Internal,Long,3,Giants,Japan
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2009,2016,7,Giants,Internal,Long,3,Giants,Germany
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,0,0,2012,2023,11,Giants,Internal,Long,2,Giants,China
+Finance and Insurance,1,0,1,1,0,0,0,1,0,0,0,0,0,2016,2021,5,Giants,Internal,Mid,4,Giants,UK
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,0,0,2013,2020,7,Giants,Internal,Long,2,Giants,France
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2009,2022,13,Giants,Internal,Long,3,Giants,Germany
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2018,6,Giants,Internal,Mid,3,Giants,Brazil
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,0,0,2008,2020,12,Giants,Internal,Long,2,Giants,Germany
+Finance and Insurance,0,0,1,1,0,0,0,1,0,0,0,0,0,2012,2016,4,Competition,Internal,Mid,3,Competition,China
+Finance and Insurance,1,1,1,0,0,0,0,0,0,0,0,0,0,2012,2023,11,Giants,Internal,Long,3,Giants,Brazil
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,1,0,2015,2021,6,Giants,Internal,Mid,3,Giants,France
+Finance and Insurance,1,0,1,1,0,0,0,1,0,0,0,0,0,2015,2020,5,Giants,Internal,Mid,4,Giants,China
+Finance and Insurance,1,0,1,0,0,0,0,1,0,0,0,0,0,2008,2015,7,Giants,Internal,Long,3,Giants,India
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,0,0,2018,2023,5,Giants,Internal,Mid,2,Giants,UK
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,0,0,2017,2023,6,Giants,Internal,Mid,2,Giants,France
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2008,2020,12,Giants,Internal,Long,3,Giants,India
+Finance and Insurance,1,0,1,1,0,0,0,0,0,0,0,0,0,2006,2011,5,Giants,Internal,Mid,3,Giants,Japan
+Finance and Insurance,1,1,1,0,0,0,0,0,0,0,0,0,0,2011,2023,12,Giants,Internal,Long,3,Giants,France
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2015,2021,6,Giants,Internal,Mid,3,Giants,Japan
+Finance and Insurance,1,0,1,0,1,0,0,0,0,0,0,0,0,2009,2021,12,Giants,Internal,Long,3,Giants,Brazil
+Finance and Insurance,1,0,1,0,0,0,0,0,0,0,0,1,0,2009,2020,11,Giants,Internal,Long,3,Giants,India
+Health Care,0,1,1,1,0,0,1,1,0,0,0,0,0,2015,2019,4,No Budget,Internal,Mid,5,No Budget,UK
+Health Care,1,0,1,1,0,0,1,0,0,0,0,0,0,2013,2021,8,Giants,Internal,Long,4,Giants,China
+Health Care,0,1,0,1,0,0,1,0,0,0,0,0,0,2015,2019,4,No Budget,Internal,Mid,3,No Budget,Australia
+Health Care,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2024,12,Giants,Internal,Long,3,Giants,Germany
+Health Care,1,0,1,0,1,0,0,0,0,0,0,0,0,2014,2018,4,Giants,Internal,Mid,3,Giants,USA
+Health Care,1,1,1,0,0,0,0,0,1,0,0,0,0,2013,2023,10,Giants,Internal,Long,4,Giants,UK
+Health Care,1,0,1,0,0,0,0,0,1,0,0,0,0,2014,2016,2,Giants,Internal,Short,3,Giants,India
+Health Care,1,0,1,1,0,0,0,0,0,0,0,0,0,2016,2023,7,Giants,Internal,Long,3,Giants,Australia
+Health Care,1,0,1,1,0,0,0,0,0,0,1,0,0,2013,2017,4,Giants,Internal,Mid,4,Giants,UK
+Health Care,1,0,1,0,1,0,0,0,0,0,0,0,0,2014,2020,6,Giants,Internal,Mid,3,Giants,India
+Health Care,0,1,0,1,0,0,1,0,1,0,0,0,0,2015,2019,4,No Budget,Internal,Mid,4,No Budget,Canada
+Health Care,1,1,1,1,0,0,1,0,0,0,0,0,0,2016,2021,5,Giants,Internal,Mid,5,Giants,Canada
+Health Care,0,1,0,1,0,0,1,0,0,0,0,0,0,2011,2018,7,No Budget,Internal,Long,3,No Budget,Japan
+Health Care,1,0,1,0,1,0,1,0,0,0,0,0,0,2013,2020,7,Giants,Internal,Long,4,Giants,UK
+Health Care,1,0,1,0,0,0,0,0,1,0,0,1,0,2016,2020,4,Giants,Internal,Mid,4,Giants,Canada
+Health Care,0,0,0,0,0,0,0,0,1,0,0,0,0,2011,2016,5,Execution Flaws,Internal,Mid,1,Execution Flaws,India
+Health Care,0,1,0,0,0,0,0,0,0,1,0,0,0,2014,2024,10,No Budget,Internal,Long,2,No Budget,Japan
+Health Care,0,0,0,1,0,0,0,0,1,0,0,0,0,2015,2019,4,Poor Market Fit,Internal,Mid,2,Poor Market Fit,India
+Health Care,1,1,1,0,0,0,1,0,0,0,0,0,0,2013,2018,5,Giants,Internal,Mid,4,Giants,Japan
+Health Care,0,1,0,1,0,0,1,0,0,0,0,0,1,2018,2018,0,No Budget,Internal,Short,4,No Budget,UK
+Health Care,0,1,0,1,0,0,0,1,0,0,0,0,0,2016,2020,4,No Budget,Internal,Mid,3,No Budget,Australia
+Health Care,1,0,1,0,0,0,0,0,0,0,1,0,0,2010,2023,13,Giants,Internal,Long,3,Giants,China
+Health Care,1,0,1,0,1,0,0,0,0,0,0,0,0,2013,2015,2,Giants,Internal,Short,3,Giants,France
+Health Care,1,1,1,0,1,0,0,0,0,0,0,0,0,2011,2021,10,Giants,Internal,Long,4,Giants,Australia
+Health Care,0,1,0,0,0,0,0,0,1,1,0,0,0,2016,2023,7,No Budget,Internal,Long,3,No Budget,Brazil
+Health Care,0,1,0,0,0,0,0,0,1,1,0,0,0,2014,2023,9,No Budget,Internal,Long,3,No Budget,India
+Health Care,0,0,0,0,0,0,0,0,1,0,1,1,0,2014,2023,9,Execution Flaws,Internal,Long,3,Execution Flaws,Brazil
+Health Care,1,1,1,0,0,0,0,1,0,0,0,0,0,2015,2019,4,Giants,Internal,Mid,4,Giants,Australia
+Health Care,1,1,1,0,0,0,0,0,0,0,0,0,0,2012,2016,4,Giants,Internal,Mid,3,Giants,Japan
+Health Care,1,0,1,1,0,0,0,0,0,0,0,0,0,2010,2017,7,Giants,Internal,Long,3,Giants,France
+Health Care,1,0,1,1,0,0,0,0,0,0,0,0,0,2011,2018,7,Giants,Internal,Long,3,Giants,France
+Health Care,1,0,1,0,1,0,0,0,0,0,0,0,0,2002,2020,18,Giants,Internal,Long,3,Giants,USA
+Health Care,0,0,0,1,0,0,1,0,1,0,0,0,0,2006,2015,9,Poor Market Fit,Internal,Long,3,Poor Market Fit,France
+Health Care,1,0,1,0,0,0,0,0,1,0,0,0,0,2006,2017,11,Giants,Internal,Long,3,Giants,China
+Health Care,0,0,0,1,1,0,0,0,0,0,0,0,0,2012,2020,8,Poor Market Fit,Internal,Long,2,Poor Market Fit,France
+Health Care,0,0,0,1,0,0,0,0,0,0,0,0,0,2010,2015,5,Poor Market Fit,Internal,Mid,1,Poor Market Fit,Australia
+Health Care,0,0,0,1,0,0,1,0,0,0,0,0,1,2012,2018,6,Poor Market Fit,Internal,Mid,3,Poor Market Fit,USA
+Health Care,1,0,1,0,0,0,0,0,1,0,0,0,1,2013,2018,5,Giants,Internal,Mid,4,Giants,Australia
+Health Care,1,1,1,0,0,0,0,0,0,0,0,0,0,2017,2021,4,Giants,Internal,Mid,3,Giants,Australia
+Health Care,0,0,0,1,0,0,1,0,0,0,0,0,0,2005,2023,18,Poor Market Fit,Internal,Long,2,Poor Market Fit,Germany
+Health Care,1,1,1,1,0,0,0,0,0,1,0,0,0,2017,2020,3,Giants,Internal,Mid,5,Giants,USA
+Health Care,0,1,0,1,0,0,0,1,0,0,0,0,0,2012,2018,6,No Budget,Internal,Mid,3,No Budget,Australia
+Health Care,1,0,1,1,0,0,1,0,0,0,0,0,1,2014,2023,9,Giants,Internal,Long,5,Giants,Germany
+Health Care,1,0,1,0,0,0,0,0,1,0,0,0,0,2017,2023,6,Giants,Internal,Mid,3,Giants,Germany
+Health Care,1,0,1,0,0,0,0,0,0,0,0,1,0,2014,2019,5,Giants,Internal,Mid,3,Giants,USA
+Health Care,0,1,0,0,0,0,0,0,1,1,0,0,0,2012,2023,11,No Budget,Internal,Long,3,No Budget,Brazil
+Health Care,0,0,0,1,0,0,1,0,0,0,0,0,0,2011,2016,5,Poor Market Fit,Internal,Mid,2,Poor Market Fit,Japan
+Health Care,1,1,1,0,0,0,0,0,1,0,0,0,0,2010,2015,5,Giants,Internal,Mid,4,Giants,China
+Health Care,1,0,1,1,0,0,1,0,0,0,0,0,0,2013,2023,10,Giants,Internal,Long,4,Giants,Japan
+Health Care,0,0,0,0,1,0,1,0,0,0,0,0,0,2013,2018,5,Acquisition Stagnation,Internal,Mid,2,Acquisition Stagnation,France
+Health Care,0,1,0,0,0,0,0,0,1,0,0,1,0,2004,2020,16,No Budget,Internal,Long,3,No Budget,China
+Health Care,0,0,0,1,0,0,1,0,0,0,0,0,0,2017,2023,6,Poor Market Fit,Internal,Mid,2,Poor Market Fit,France
+Health Care,1,0,1,0,0,0,0,0,0,0,0,1,0,2012,2016,4,Giants,Internal,Mid,3,Giants,Australia
+Health Care,1,0,1,1,1,0,0,0,0,0,0,0,0,2012,2019,7,Giants,Internal,Long,4,Giants,India
+Health Care,1,1,1,0,0,0,0,0,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,3,Giants,USA
+Health Care,0,1,0,1,0,0,0,1,0,0,0,0,0,2012,2015,3,No Budget,Internal,Mid,3,No Budget,China
+Health Care,0,0,0,0,0,0,0,0,0,0,1,0,1,2003,2018,15,Toxicity/Trust Issues,Internal,Long,2,Toxicity/Trust Issues,China
+Health Care,1,0,1,1,0,0,0,1,0,0,0,0,0,2013,2020,7,Giants,Internal,Long,4,Giants,Australia
+Health Care,0,0,0,0,0,0,0,0,0,0,1,0,0,2012,2019,7,Toxicity/Trust Issues,Internal,Long,1,Toxicity/Trust Issues,Brazil
+Health Care,1,0,1,1,0,0,1,1,0,0,0,0,0,2008,2013,5,Giants,Internal,Mid,5,Giants,Germany
+Manufacturing,1,1,1,0,0,0,0,0,0,0,0,0,0,2011,2018,7,Giants,Internal,Long,3,Giants,Australia
+Manufacturing,1,1,1,0,0,0,0,0,0,0,0,0,0,2010,2019,9,Giants,Internal,Long,3,Giants,Canada
+Manufacturing,1,0,1,1,0,0,0,0,0,0,0,0,0,2005,2011,6,Giants,Internal,Mid,3,Giants,Germany
+Manufacturing,1,0,1,1,0,0,0,1,0,0,0,0,0,2008,2019,11,Giants,Internal,Long,4,Giants,USA
+Manufacturing,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2017,5,Giants,Internal,Mid,3,Giants,Germany
+Manufacturing,1,0,1,1,0,0,0,1,0,0,0,0,0,2011,2018,7,Giants,Internal,Long,4,Giants,Brazil
+Manufacturing,1,1,1,0,0,0,0,0,0,0,0,0,0,2007,2013,6,Giants,Internal,Mid,3,Giants,Germany
+Manufacturing,1,1,1,1,0,0,0,0,0,0,0,0,0,2011,2020,9,Giants,Internal,Long,4,Giants,USA
+Manufacturing,1,0,1,1,0,0,0,1,0,0,0,0,0,2011,2020,9,Giants,Internal,Long,4,Giants,Brazil
+Manufacturing,1,1,1,0,0,0,0,0,0,0,0,0,1,2017,2019,2,Giants,Internal,Short,4,Giants,Japan
+Manufacturing,1,0,1,0,0,0,0,0,1,0,0,0,0,2009,2020,11,Giants,Internal,Long,3,Giants,China
+Manufacturing,1,1,1,0,0,0,0,0,0,0,0,0,1,2015,2020,5,Giants,Internal,Mid,4,Giants,China
+Manufacturing,1,1,1,0,0,0,0,0,1,0,0,0,1,2014,2023,9,Giants,Internal,Long,5,Giants,France
+Manufacturing,1,1,1,0,0,1,0,0,1,0,0,0,0,2007,2013,6,Giants,Internal,Mid,5,Giants,Japan
+Manufacturing,1,0,1,0,0,0,0,0,1,0,0,0,0,2015,2018,3,Giants,Internal,Mid,3,Giants,Japan
+Manufacturing,1,0,1,0,0,0,0,0,0,1,0,0,0,2012,2017,5,Giants,Internal,Mid,3,Giants,Germany
+Manufacturing,1,0,1,0,0,0,0,0,0,1,0,0,0,2006,2017,11,Giants,Internal,Long,3,Giants,China
+Manufacturing,1,1,1,0,0,0,0,0,1,1,0,0,0,2013,2017,4,Giants,Internal,Mid,5,Giants,USA
+Manufacturing,1,1,1,0,0,0,0,0,0,1,0,0,0,2013,2020,7,Giants,Internal,Long,4,Giants,UK
+Manufacturing,1,1,1,0,0,0,0,0,1,0,0,0,1,2013,2017,4,Giants,Internal,Mid,5,Giants,UK
+Manufacturing,1,1,1,0,0,0,0,0,0,1,0,0,0,2006,2018,12,Giants,Internal,Long,4,Giants,Brazil
+Manufacturing,1,0,1,0,1,0,0,0,1,0,0,0,0,2009,2017,8,Giants,Internal,Long,4,Giants,China
+Manufacturing,1,0,1,1,0,0,0,1,0,0,0,0,0,2013,2020,7,Giants,Internal,Long,4,Giants,China
+Manufacturing,1,0,1,1,0,0,0,0,0,0,0,0,0,2014,2017,3,Giants,Internal,Mid,3,Giants,UK
+Manufacturing,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2016,4,Giants,Internal,Mid,3,Giants,China
+Manufacturing,1,1,1,0,0,0,0,0,0,0,0,0,0,2012,2022,10,Giants,Internal,Long,3,Giants,Germany
+Manufacturing,1,1,1,0,0,0,0,0,0,0,0,0,0,2008,2018,10,Giants,Internal,Long,3,Giants,Canada
+Manufacturing,1,1,1,0,0,0,0,0,1,0,0,0,1,2013,2016,3,Giants,Internal,Mid,5,Giants,India
+Manufacturing,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2020,8,Giants,Internal,Long,3,Giants,Japan
+Manufacturing,1,1,1,0,0,0,0,0,0,0,0,0,0,2015,2023,8,Giants,Internal,Long,3,Giants,France
+Retail Trade,0,1,0,1,0,0,0,1,0,0,0,0,0,2010,2013,3,No Budget,Internal,Mid,3,No Budget,Brazil
+Retail Trade,1,0,1,0,0,0,1,1,0,0,0,0,0,2010,2017,7,Giants,Internal,Long,4,Giants,Canada
+Retail Trade,1,1,0,0,0,0,1,0,1,0,0,0,0,2006,2016,10,Giants,Internal,Long,4,Giants,UK
+Retail Trade,1,1,0,0,0,0,0,1,0,0,0,0,0,2012,2017,5,Giants,Internal,Mid,3,Giants,Japan
+Retail Trade,1,1,0,0,0,0,1,0,1,0,0,0,0,2013,2017,4,Giants,Internal,Mid,4,Giants,China
+Retail Trade,1,0,1,0,0,0,1,0,0,0,0,0,0,2013,2021,8,Giants,Internal,Long,3,Giants,France
+Retail Trade,0,0,1,1,0,0,0,1,0,0,0,1,0,2015,2022,7,Competition,Internal,Long,4,Competition,China
+Retail Trade,0,1,1,0,0,0,0,0,0,0,0,0,0,2009,2015,6,No Budget,Internal,Mid,2,No Budget,USA
+Retail Trade,0,0,1,1,0,0,0,1,0,0,0,0,0,2015,2018,3,Competition,Internal,Mid,3,Competition,USA
+Retail Trade,1,1,0,0,0,0,1,0,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,3,Giants,France
+Retail Trade,1,0,1,0,0,0,0,0,1,0,0,0,0,2012,2020,8,Giants,Internal,Long,3,Giants,France
+Retail Trade,1,0,1,0,0,0,0,0,0,1,1,0,0,2010,2023,13,Giants,Internal,Long,4,Giants,UK
+Retail Trade,0,1,0,1,0,0,0,1,0,0,0,0,0,2014,2018,4,No Budget,Internal,Mid,3,No Budget,France
+Retail Trade,1,1,1,0,0,0,0,1,0,0,0,0,0,2013,2016,3,Giants,Internal,Mid,4,Giants,Germany
+Retail Trade,1,0,1,0,0,0,0,0,1,0,0,0,0,2013,2018,5,Giants,Internal,Mid,3,Giants,China
+Retail Trade,1,0,1,0,1,0,0,0,0,0,0,1,0,2012,2023,11,Giants,Internal,Long,4,Giants,Canada
+Retail Trade,0,0,1,0,0,0,1,1,0,0,0,0,0,2012,2019,7,Competition,Internal,Long,3,Competition,Australia
+Retail Trade,1,1,0,0,0,0,0,0,1,0,1,0,0,2009,2013,4,Giants,Internal,Mid,4,Giants,France
+Retail Trade,1,1,0,1,0,0,0,1,0,0,0,0,0,2014,2020,6,Giants,Internal,Mid,4,Giants,Brazil
+Retail Trade,1,0,1,0,0,0,0,0,1,0,0,0,1,2011,2018,7,Giants,Internal,Long,4,Giants,USA
+Retail Trade,1,0,0,0,0,0,1,0,0,0,0,0,0,2010,2019,9,Giants,Internal,Long,2,Giants,Germany
+Retail Trade,1,0,0,1,0,0,0,1,0,0,0,0,0,2009,2014,5,Giants,Internal,Mid,3,Giants,Japan
+Retail Trade,1,0,0,0,0,1,0,0,0,0,0,0,0,2008,2018,10,Giants,Internal,Long,2,Giants,Australia
+Retail Trade,1,0,1,1,0,0,0,0,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,3,Giants,Canada
+Retail Trade,0,0,0,0,1,0,1,1,0,0,0,0,0,2011,2016,5,Acquisition Stagnation,Internal,Mid,3,Acquisition Stagnation,Australia
+Retail Trade,1,0,1,0,0,0,1,0,0,0,0,0,0,2012,2019,7,Giants,Internal,Long,3,Giants,France
+Retail Trade,1,0,1,0,0,0,0,0,1,0,0,0,0,2011,2022,11,Giants,Internal,Long,3,Giants,UK
+Retail Trade,1,0,0,0,1,0,0,0,0,0,0,0,0,2008,2019,11,Giants,Internal,Long,2,Giants,USA
+Retail Trade,1,0,1,0,0,0,0,0,0,1,0,0,0,2011,2015,4,Giants,Internal,Mid,3,Giants,USA
+Retail Trade,0,1,0,0,0,0,0,0,0,0,0,0,0,2014,2023,9,No Budget,Internal,Long,1,No Budget,Japan
+Retail Trade,1,0,1,0,0,0,0,0,1,0,0,0,0,2018,2023,5,Giants,Internal,Mid,3,Giants,UK
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2014,2022,8,Giants,Internal,Long,2,Giants,China
+Retail Trade,0,0,1,0,0,0,0,0,1,0,1,1,0,2012,2016,4,Competition,Internal,Mid,4,Competition,India
+Retail Trade,0,0,1,0,0,0,0,1,0,0,0,0,0,2016,2020,4,Competition,Internal,Mid,2,Competition,Germany
+Retail Trade,0,0,1,0,0,0,0,0,0,0,0,0,0,2011,2022,11,Competition,Internal,Long,1,Competition,USA
+Retail Trade,1,1,0,1,0,0,0,0,0,0,0,0,0,2010,2015,5,Giants,Internal,Mid,3,Giants,Brazil
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2010,2015,5,Giants,Internal,Mid,2,Giants,USA
+Retail Trade,1,0,1,0,0,0,0,0,0,0,0,0,0,2011,2023,12,Giants,Internal,Long,2,Giants,Australia
+Retail Trade,0,0,1,1,0,0,0,0,0,0,0,0,0,2013,2018,5,Competition,Internal,Mid,2,Competition,USA
+Retail Trade,1,0,1,0,0,0,0,0,0,0,1,0,0,2010,2022,12,Giants,Internal,Long,3,Giants,USA
+Retail Trade,0,0,1,0,0,0,0,1,0,0,0,0,0,2012,2018,6,Competition,Internal,Mid,2,Competition,India
+Retail Trade,1,1,0,0,0,0,1,0,0,1,0,0,1,1998,2002,4,Giants,Internal,Mid,5,Giants,India
+Retail Trade,0,0,1,0,0,0,1,1,0,0,0,0,0,2010,2018,8,Competition,Internal,Long,3,Competition,Canada
+Retail Trade,0,0,1,0,0,0,0,0,1,0,0,0,0,2008,2018,10,Competition,Internal,Long,2,Competition,China
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2012,2022,10,Giants,Internal,Long,2,Giants,Brazil
+Retail Trade,1,0,0,0,0,0,0,1,1,0,0,0,0,2013,2022,9,Giants,Internal,Long,3,Giants,USA
+Retail Trade,1,0,1,0,0,0,0,0,0,0,0,0,0,2012,2021,9,Giants,Internal,Long,2,Giants,USA
+Retail Trade,1,0,0,0,1,0,0,0,1,0,0,0,0,2002,2017,15,Giants,Internal,Long,3,Giants,Germany
+Retail Trade,1,1,0,0,0,0,1,1,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,4,Giants,India
+Retail Trade,0,0,1,0,0,0,0,0,1,0,1,0,0,2006,2017,11,Competition,Internal,Long,3,Competition,Brazil
+Retail Trade,1,0,1,0,0,0,0,0,1,0,0,0,0,2009,2019,10,Giants,Internal,Long,3,Giants,Japan
+Retail Trade,1,0,0,1,0,0,0,0,0,0,0,0,0,2015,2020,5,Giants,Internal,Mid,2,Giants,Canada
+Retail Trade,0,0,1,0,0,0,0,0,1,0,0,0,0,2013,2022,9,Competition,Internal,Long,2,Competition,China
+Retail Trade,1,0,0,1,0,0,0,0,0,0,0,0,0,2012,2021,9,Giants,Internal,Long,2,Giants,UK
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2012,2020,8,Giants,Internal,Long,2,Giants,China
+Retail Trade,1,1,0,0,0,0,1,0,0,1,0,0,1,1998,2000,2,Giants,Internal,Short,5,Giants,Australia
+Retail Trade,1,0,0,1,0,0,0,1,0,0,0,0,0,2014,2020,6,Giants,Internal,Mid,3,Giants,USA
+Retail Trade,0,0,1,0,0,0,0,0,0,1,0,0,0,2010,2017,7,Competition,Internal,Long,2,Competition,Canada
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2015,2021,6,Giants,Internal,Mid,2,Giants,Australia
+Retail Trade,0,0,1,0,0,0,0,0,0,0,0,0,0,2012,2020,8,Competition,Internal,Long,1,Competition,Brazil
+Retail Trade,1,0,0,0,0,0,0,0,1,1,0,0,1,2009,2019,10,Giants,Internal,Long,4,Giants,UK
+Retail Trade,1,0,0,0,0,0,1,0,0,0,0,0,0,2013,2022,9,Giants,Internal,Long,2,Giants,India
+Retail Trade,0,0,1,1,0,0,0,0,0,0,0,0,0,2015,2021,6,Competition,Internal,Mid,2,Competition,Canada
+Retail Trade,0,0,1,0,0,0,0,0,0,1,0,0,0,2012,2020,8,Competition,Internal,Long,2,Competition,Canada
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,2,Giants,USA
+Retail Trade,1,0,0,1,0,0,0,0,0,0,0,0,0,2013,2016,3,Giants,Internal,Mid,2,Giants,France
+Retail Trade,0,0,1,0,0,0,0,0,0,0,0,0,0,2008,2020,12,Competition,Internal,Long,1,Competition,Canada
+Retail Trade,1,1,0,0,1,1,0,0,0,0,0,0,0,2009,2020,11,Giants,Internal,Long,4,Giants,Germany
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2012,2020,8,Giants,Internal,Long,2,Giants,UK
+Retail Trade,1,0,0,1,0,0,0,0,0,0,0,0,0,2010,2021,11,Giants,Internal,Long,2,Giants,UK
+Retail Trade,1,0,0,0,0,0,0,0,1,0,0,0,0,2013,2019,6,Giants,Internal,Mid,2,Giants,Germany
+Retail Trade,1,0,0,0,0,0,1,0,0,0,0,0,0,2011,2021,10,Giants,Internal,Long,2,Giants,Japan
+Retail Trade,0,0,1,1,0,0,0,0,0,0,0,0,0,2018,2023,5,Competition,Internal,Mid,2,Competition,Germany
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2015,2020,5,Giants,Internal,Mid,2,Giants,Germany
+Retail Trade,1,0,0,1,0,0,0,0,0,0,0,0,0,2013,2018,5,Giants,Internal,Mid,2,Giants,UK
+Retail Trade,1,0,1,0,0,0,0,0,1,0,0,0,0,2018,2023,5,Giants,Internal,Mid,3,Giants,China
+Retail Trade,0,0,1,0,0,0,0,0,0,1,0,0,0,2010,2015,5,Competition,Internal,Mid,2,Competition,UK
+Retail Trade,0,0,1,0,0,0,0,1,0,0,0,0,0,2012,2021,9,Competition,Internal,Long,2,Competition,France
+Retail Trade,1,0,1,0,1,0,0,0,0,0,0,0,0,2010,2019,9,Giants,Internal,Long,3,Giants,USA
+Retail Trade,1,0,0,1,0,0,0,0,0,0,0,0,0,2018,2022,4,Giants,Internal,Mid,2,Giants,Australia
+Retail Trade,1,1,0,0,0,0,1,0,1,1,0,0,1,1996,1999,3,Giants,Internal,Mid,6,Giants,China
+Retail Trade,1,0,0,1,0,0,0,1,0,0,0,0,0,2012,2015,3,Giants,Internal,Mid,3,Giants,India
+Retail Trade,0,0,1,0,0,0,0,0,0,1,0,0,0,2011,2019,8,Competition,Internal,Long,2,Competition,Australia
+Retail Trade,0,0,1,0,0,0,0,1,0,0,0,0,0,2011,2017,6,Competition,Internal,Mid,2,Competition,USA
+Retail Trade,1,0,0,0,0,0,0,0,0,0,0,0,0,2013,2018,5,Giants,Internal,Mid,1,Giants,France
+Retail Trade,1,0,0,1,0,0,0,0,0,0,0,0,0,2015,2020,5,Giants,Internal,Mid,2,Giants,France
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2013,2018,5,Giants,Internal,Mid,2,Giants,India
+Retail Trade,1,0,0,0,0,0,0,1,0,0,0,0,0,2013,2019,6,Giants,Internal,Mid,2,Giants,China
+Accommodation and Food Services,1,0,1,1,0,0,0,0,0,0,0,0,0,2015,2021,6,Giants,Internal,Mid,3,Giants,Japan
+Accommodation and Food Services,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2020,8,Giants,Internal,Long,3,Giants,Germany
+Accommodation and Food Services,1,0,1,0,0,0,0,0,0,0,0,0,0,2014,2019,5,Giants,Internal,Mid,2,Giants,China
+Accommodation and Food Services,0,1,0,0,0,0,0,0,0,0,0,0,0,2011,2023,12,No Budget,Internal,Long,1,No Budget,Japan
+Accommodation and Food Services,1,0,1,0,0,0,0,1,0,0,0,0,0,2012,2020,8,Giants,Internal,Long,3,Giants,France
+Accommodation and Food Services,1,0,1,0,0,0,0,0,1,0,0,0,0,2019,2023,4,Giants,Internal,Mid,3,Giants,UK
+Accommodation and Food Services,0,1,0,1,0,0,0,0,0,0,0,0,0,2011,2017,6,No Budget,Internal,Mid,2,No Budget,USA
+Accommodation and Food Services,0,1,0,1,0,0,0,0,0,0,0,0,0,2011,2014,3,No Budget,Internal,Mid,2,No Budget,India
+Accommodation and Food Services,0,1,0,1,0,0,0,0,0,0,0,0,0,2004,2018,14,No Budget,Internal,Long,2,No Budget,USA
+Accommodation and Food Services,0,1,0,1,0,0,0,0,0,0,0,0,0,2010,2015,5,No Budget,Internal,Mid,2,No Budget,Brazil
+Accommodation and Food Services,1,0,1,0,0,0,0,0,0,0,0,0,0,2014,2019,5,Giants,Internal,Mid,2,Giants,Brazil
+Accommodation and Food Services,1,0,1,0,0,0,0,0,1,0,0,0,0,2010,2018,8,Giants,Internal,Long,3,Giants,China
+Accommodation and Food Services,1,1,1,0,0,0,0,0,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,3,Giants,France
+Accommodation and Food Services,0,1,0,1,0,0,0,0,1,0,0,0,0,2011,2017,6,No Budget,Internal,Mid,3,No Budget,France
+Accommodation and Food Services,0,0,1,1,0,0,0,0,0,0,0,0,0,2015,2020,5,Competition,Internal,Mid,2,Competition,Germany
+Accommodation and Food Services,0,0,1,0,0,0,0,0,0,0,0,0,0,2006,2021,15,Competition,Internal,Long,1,Competition,Germany
+Accommodation and Food Services,1,0,1,0,0,0,0,0,0,1,0,0,0,2014,2022,8,Giants,Internal,Long,3,Giants,Germany
+Accommodation and Food Services,1,1,1,0,0,0,1,0,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,4,Giants,UK
+Accommodation and Food Services,1,0,1,0,0,0,0,0,0,0,0,0,0,2013,2017,4,Giants,Internal,Mid,2,Giants,Australia
+Accommodation and Food Services,0,0,0,1,0,0,0,0,0,0,0,0,0,2012,2017,5,Poor Market Fit,Internal,Mid,1,Poor Market Fit,Canada
+Accommodation and Food Services,1,0,1,0,0,0,1,0,0,0,0,0,0,2012,2019,7,Giants,Internal,Long,3,Giants,Australia
+Accommodation and Food Services,0,1,0,0,0,0,0,0,0,0,0,0,0,2015,2020,5,No Budget,Internal,Mid,1,No Budget,USA
+Accommodation and Food Services,1,1,0,0,0,0,0,1,0,0,0,0,0,2014,2019,5,Giants,Internal,Mid,3,Giants,Australia
+Accommodation and Food Services,0,1,0,0,0,0,0,0,0,0,0,0,0,2012,2020,8,No Budget,Internal,Long,1,No Budget,UK
+Accommodation and Food Services,0,0,0,0,0,0,1,0,0,0,0,0,0,2013,2022,9,Monetization Failure,Internal,Long,1,Monetization Failure,USA
+Accommodation and Food Services,1,0,1,1,0,0,0,0,0,0,0,0,0,2017,2022,5,Giants,Internal,Mid,3,Giants,Australia
+Accommodation and Food Services,1,0,1,0,0,0,1,0,0,0,0,0,0,2012,2019,7,Giants,Internal,Long,3,Giants,UK
+Information,1,1,0,0,0,0,0,0,1,0,0,0,0,2010,2012,2,Giants,Internal,Short,3,Giants,Canada
+Information,0,0,0,0,0,0,0,0,0,0,0,0,0,1996,2007,11,None,Internal,Long,0,None,Australia
+Information,1,0,0,0,0,0,0,0,1,0,0,0,0,2005,2019,14,Giants,Internal,Long,2,Giants,UK
+Information,0,0,1,0,0,0,0,0,0,0,0,0,0,2010,2012,2,Competition,Internal,Short,1,Competition,Germany
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2011,2017,6,Giants,Internal,Mid,2,Giants,France
+Information,0,0,0,0,0,1,0,0,0,0,0,0,0,2007,2022,15,Platform Dependency,Internal,Long,1,Platform Dependency,Germany
+Information,0,0,0,1,0,0,0,1,0,0,0,0,0,2011,2016,5,Poor Market Fit,Internal,Mid,2,Poor Market Fit,France
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2008,2023,15,Giants,Internal,Long,2,Giants,India
+Information,1,0,1,0,0,0,0,0,0,0,1,0,0,2018,2022,4,Giants,Internal,Mid,3,Giants,India
+Information,0,0,1,0,1,0,1,0,0,0,0,0,0,2011,2022,11,Competition,Internal,Long,3,Competition,India
+Information,1,1,1,0,0,0,0,1,0,0,0,0,0,2011,2018,7,Giants,Internal,Long,4,Giants,Canada
+Information,1,0,1,1,1,0,0,0,0,0,0,0,1,2011,2014,3,Giants,Internal,Mid,5,Giants,Germany
+Information,0,0,0,0,1,0,0,0,0,1,0,0,0,2010,2016,6,Acquisition Stagnation,Internal,Mid,2,Acquisition Stagnation,France
+Information,0,1,0,0,0,1,0,0,1,0,0,0,0,2012,2021,9,No Budget,Internal,Long,3,No Budget,UK
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2010,2023,13,Giants,Internal,Long,2,Giants,USA
+Information,0,1,0,0,0,0,0,1,0,0,0,0,0,2004,2018,14,No Budget,Internal,Long,2,No Budget,UK
+Information,0,1,0,0,0,1,0,0,0,0,0,0,0,2012,2019,7,No Budget,Internal,Long,2,No Budget,USA
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2015,2021,6,No Budget,Internal,Mid,1,No Budget,Brazil
+Information,0,1,0,1,0,0,0,1,0,0,0,0,0,2004,2019,15,No Budget,Internal,Long,3,No Budget,UK
+Information,1,1,0,0,0,0,0,0,0,0,0,0,0,2012,2015,3,Giants,Internal,Mid,2,Giants,Australia
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2011,2023,12,No Budget,Internal,Long,1,No Budget,Australia
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2008,2022,14,No Budget,Internal,Long,2,No Budget,China
+Information,0,0,0,0,0,0,0,0,0,1,0,0,0,2009,2016,7,Trend Shifts,External,Long,1,Trend Shifts,Germany
+Information,0,1,0,0,0,0,0,0,1,0,0,0,0,2014,2021,7,No Budget,Internal,Long,2,No Budget,USA
+Information,0,1,0,0,0,0,0,1,0,0,0,0,0,2002,2014,12,No Budget,Internal,Long,2,No Budget,USA
+Information,0,0,0,1,0,0,0,0,1,0,0,0,0,1994,2005,11,Poor Market Fit,Internal,Long,2,Poor Market Fit,Germany
+Information,1,0,1,0,1,0,0,0,0,1,0,0,0,2008,2016,8,Giants,Internal,Long,4,Giants,Canada
+Information,0,0,0,1,0,0,0,0,0,0,1,0,0,2006,2018,12,Poor Market Fit,Internal,Long,2,Poor Market Fit,China
+Information,0,0,1,0,1,0,0,0,0,0,0,0,0,2014,2021,7,Competition,Internal,Long,2,Competition,Canada
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2007,2012,5,No Budget,Internal,Mid,2,No Budget,Canada
+Information,0,1,0,0,0,0,0,0,0,0,1,0,0,2006,2017,11,No Budget,Internal,Long,2,No Budget,Canada
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2010,2015,5,Poor Market Fit,Internal,Mid,1,Poor Market Fit,Germany
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2008,2023,15,No Budget,Internal,Long,1,No Budget,Canada
+Information,0,1,0,1,0,0,0,0,1,0,0,0,0,2016,2021,5,No Budget,Internal,Mid,3,No Budget,Australia
+Information,1,0,1,0,1,0,0,0,0,0,0,0,0,2006,2018,12,Giants,Internal,Long,3,Giants,India
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2011,2019,8,No Budget,Internal,Long,1,No Budget,Brazil
+Information,0,1,0,0,0,1,0,0,0,0,0,0,0,2010,2022,12,No Budget,Internal,Long,2,No Budget,USA
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2009,2020,11,No Budget,Internal,Long,1,No Budget,USA
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2016,2021,5,No Budget,Internal,Mid,1,No Budget,Brazil
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2011,2023,12,Giants,Internal,Long,1,Giants,Germany
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2011,2023,12,No Budget,Internal,Long,1,No Budget,UK
+Information,0,1,0,0,0,0,0,1,0,0,0,0,0,1999,2017,18,No Budget,Internal,Long,2,No Budget,Germany
+Information,0,0,0,1,0,0,1,0,0,0,0,0,0,2011,2016,5,Poor Market Fit,Internal,Mid,2,Poor Market Fit,USA
+Information,0,1,0,0,0,0,0,0,0,1,0,0,0,2009,2022,13,No Budget,Internal,Long,2,No Budget,USA
+Information,0,1,0,1,0,1,0,0,0,0,0,1,0,2008,2020,12,No Budget,Internal,Long,4,No Budget,Brazil
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2012,2015,3,Poor Market Fit,Internal,Mid,1,Poor Market Fit,Canada
+Information,1,0,0,0,0,1,0,0,1,0,0,0,0,2005,2019,14,Giants,Internal,Long,3,Giants,Germany
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2014,2020,6,No Budget,Internal,Mid,1,No Budget,France
+Information,0,0,1,1,0,0,0,0,0,0,0,0,0,2011,2014,3,Competition,Internal,Mid,2,Competition,Brazil
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2009,2023,14,Giants,Internal,Long,1,Giants,Australia
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2010,2017,7,Giants,Internal,Long,1,Giants,USA
+Information,0,0,1,0,0,0,0,0,0,0,0,0,0,2014,2018,4,Competition,Internal,Mid,1,Competition,Brazil
+Information,0,1,0,0,0,0,0,1,0,0,0,0,0,2003,2018,15,No Budget,Internal,Long,2,No Budget,Germany
+Information,0,0,0,0,0,0,0,0,0,0,0,0,0,1994,2003,9,None,Internal,Long,0,None,USA
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2010,2012,2,Giants,Internal,Short,2,Giants,UK
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2018,2023,5,Giants,Internal,Mid,1,Giants,Brazil
+Information,0,1,0,1,1,0,0,0,0,0,0,0,0,2012,2019,7,No Budget,Internal,Long,3,No Budget,China
+Information,0,1,0,0,0,0,1,0,0,1,0,0,0,2010,2018,8,No Budget,Internal,Long,3,No Budget,USA
+Information,1,0,0,0,0,0,0,1,0,0,0,0,0,2015,2020,5,Giants,Internal,Mid,2,Giants,Germany
+Information,0,1,0,0,0,0,0,0,1,0,0,0,0,2003,2018,15,No Budget,Internal,Long,2,No Budget,India
+Information,0,0,0,0,0,0,0,0,0,0,0,0,0,2012,2020,8,None,Internal,Long,0,None,France
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2011,2017,6,No Budget,Internal,Mid,2,No Budget,Japan
+Information,1,0,0,0,1,1,0,0,0,0,0,0,0,2008,2023,15,Giants,Internal,Long,3,Giants,Canada
+Information,0,1,0,1,0,1,0,0,0,0,0,0,0,2007,2018,11,No Budget,Internal,Long,3,No Budget,Japan
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2010,2017,7,No Budget,Internal,Long,2,No Budget,Germany
+Information,1,1,0,0,0,0,1,0,0,0,0,0,0,2013,2019,6,Giants,Internal,Mid,3,Giants,Australia
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2008,2020,12,Giants,Internal,Long,2,Giants,Australia
+Information,0,0,0,0,0,0,0,1,0,0,1,0,0,2009,2017,8,Niche Limits,Internal,Long,2,Niche Limits,India
+Information,0,1,0,0,0,1,0,0,0,0,0,0,0,2009,2020,11,No Budget,Internal,Long,2,No Budget,Canada
+Information,1,0,0,0,1,0,0,0,0,0,0,0,0,2009,2015,6,Giants,Internal,Mid,2,Giants,China
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2011,2016,5,Poor Market Fit,Internal,Mid,1,Poor Market Fit,India
+Information,0,1,0,0,0,1,0,0,0,0,0,0,0,2009,2019,10,No Budget,Internal,Long,2,No Budget,Japan
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2013,2019,6,Poor Market Fit,Internal,Mid,1,Poor Market Fit,India
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2009,2014,5,No Budget,Internal,Mid,2,No Budget,Japan
+Information,0,1,0,0,0,0,0,0,0,1,0,0,0,2014,2018,4,No Budget,Internal,Mid,2,No Budget,USA
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2007,2020,13,Poor Market Fit,Internal,Long,1,Poor Market Fit,Australia
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2007,2017,10,No Budget,Internal,Long,2,No Budget,USA
+Information,1,0,0,0,1,0,0,0,0,0,0,0,0,2016,2022,6,Giants,Internal,Mid,2,Giants,France
+Information,1,0,0,0,0,1,0,0,0,0,0,0,0,2012,2016,4,Giants,Internal,Mid,2,Giants,Canada
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2015,2021,6,Giants,Internal,Mid,1,Giants,China
+Information,0,0,0,0,0,1,1,0,0,0,0,0,0,2020,2023,3,Platform Dependency,Internal,Mid,2,Platform Dependency,Japan
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2009,2020,11,Giants,Internal,Long,1,Giants,China
+Information,0,1,0,0,0,0,0,0,0,0,0,0,0,2009,2014,5,No Budget,Internal,Mid,1,No Budget,Japan
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2009,2018,9,Giants,Internal,Long,1,Giants,Germany
+Information,1,1,0,0,0,0,0,0,0,0,0,0,0,2016,2021,5,Giants,Internal,Mid,2,Giants,India
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2007,2018,11,No Budget,Internal,Long,2,No Budget,France
+Information,1,0,0,0,0,1,0,0,0,0,0,0,0,2009,2022,13,Giants,Internal,Long,2,Giants,Australia
+Information,0,0,0,0,0,0,0,1,1,0,0,0,0,2004,2018,14,Niche Limits,Internal,Long,2,Niche Limits,Japan
+Information,1,0,0,0,1,0,0,0,0,0,0,0,0,2017,2022,5,Giants,Internal,Mid,2,Giants,China
+Information,0,0,0,0,0,0,0,1,0,0,0,0,0,2007,2020,13,Niche Limits,Internal,Long,1,Niche Limits,France
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2011,2022,11,Giants,Internal,Long,2,Giants,UK
+Information,1,0,0,0,1,0,0,0,0,0,0,0,0,2015,2021,6,Giants,Internal,Mid,2,Giants,UK
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2015,2023,8,Giants,Internal,Long,1,Giants,USA
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2014,2020,6,Giants,Internal,Mid,2,Giants,Australia
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2013,2015,2,Giants,Internal,Short,1,Giants,Germany
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2017,2022,5,Giants,Internal,Mid,1,Giants,China
+Information,1,0,0,0,0,0,0,1,0,0,0,0,0,2013,2015,2,Giants,Internal,Short,2,Giants,India
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2012,2017,5,No Budget,Internal,Mid,2,No Budget,India
+Information,1,0,0,0,0,0,0,1,0,0,0,0,0,1979,1984,5,Giants,Internal,Mid,2,Giants,China
+Information,0,1,0,0,0,0,0,0,0,1,0,0,0,2012,2020,8,No Budget,Internal,Long,2,No Budget,Canada
+Information,0,0,1,0,0,0,0,0,0,0,0,0,0,2010,2019,9,Competition,Internal,Long,1,Competition,Germany
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2012,2020,8,No Budget,Internal,Long,2,No Budget,France
+Information,1,0,0,0,0,1,0,1,0,0,0,0,0,2013,2019,6,Giants,Internal,Mid,3,Giants,Japan
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2013,2018,5,Giants,Internal,Mid,1,Giants,Canada
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2012,2022,10,Giants,Internal,Long,1,Giants,Japan
+Information,0,0,1,0,0,0,0,1,0,0,0,0,0,2006,2014,8,Competition,Internal,Long,2,Competition,Japan
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2006,2013,7,Poor Market Fit,Internal,Long,1,Poor Market Fit,Canada
+Information,0,1,0,0,0,0,0,1,0,0,0,0,0,2005,2020,15,No Budget,Internal,Long,2,No Budget,USA
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2008,2012,4,Giants,Internal,Mid,1,Giants,UK
+Information,1,0,0,0,0,0,1,0,0,0,0,0,0,1998,2013,15,Giants,Internal,Long,2,Giants,Japan
+Information,0,1,0,0,0,0,0,1,0,0,0,0,0,2008,2010,2,No Budget,Internal,Short,2,No Budget,Canada
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2008,2018,10,No Budget,Internal,Long,2,No Budget,Canada
+Information,0,1,0,1,0,0,0,0,0,1,0,0,0,2013,2018,5,No Budget,Internal,Mid,3,No Budget,Brazil
+Information,1,0,1,0,0,0,0,0,0,0,0,1,0,2014,2018,4,Giants,Internal,Mid,3,Giants,USA
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2007,2020,13,Giants,Internal,Long,1,Giants,Australia
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2011,2022,11,Giants,Internal,Long,2,Giants,Brazil
+Information,1,0,0,0,1,0,0,0,0,0,0,0,0,2018,2023,5,Giants,Internal,Mid,2,Giants,Brazil
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2010,2017,7,Poor Market Fit,Internal,Long,1,Poor Market Fit,China
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2015,2023,8,Giants,Internal,Long,1,Giants,UK
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2007,2019,12,Giants,Internal,Long,1,Giants,Canada
+Information,1,0,0,0,0,1,0,0,0,0,0,0,0,2015,2020,5,Giants,Internal,Mid,2,Giants,UK
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2012,2021,9,Giants,Internal,Long,2,Giants,Germany
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2008,2016,8,Poor Market Fit,Internal,Long,1,Poor Market Fit,China
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2018,2023,5,Giants,Internal,Mid,1,Giants,Australia
+Information,1,0,1,0,0,0,0,1,0,0,0,0,0,2009,2019,10,Giants,Internal,Long,3,Giants,UK
+Information,0,0,0,0,0,0,1,0,0,0,0,0,0,2015,2022,7,Monetization Failure,Internal,Long,1,Monetization Failure,India
+Information,1,0,0,0,1,0,0,0,0,0,0,0,0,2015,2021,6,Giants,Internal,Mid,2,Giants,Japan
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,1998,2013,15,Giants,Internal,Long,1,Giants,Germany
+Information,1,0,0,0,0,1,0,0,0,0,0,0,0,2009,2017,8,Giants,Internal,Long,2,Giants,USA
+Information,0,0,0,1,1,0,0,0,1,0,0,0,0,2007,2019,12,Poor Market Fit,Internal,Long,3,Poor Market Fit,Australia
+Information,1,1,0,0,0,0,0,0,0,0,0,0,0,2002,2008,6,Giants,Internal,Mid,2,Giants,Germany
+Information,1,0,0,0,0,0,0,1,0,0,0,0,0,2013,2018,5,Giants,Internal,Mid,2,Giants,Japan
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2006,2021,15,Giants,Internal,Long,1,Giants,China
+Information,1,0,0,1,0,0,0,0,0,0,0,0,0,2010,2017,7,Giants,Internal,Long,2,Giants,Japan
+Information,0,0,0,1,0,0,0,0,0,0,0,0,0,2008,2014,6,Poor Market Fit,Internal,Mid,1,Poor Market Fit,Brazil
+Information,0,0,0,0,0,0,0,0,0,0,0,0,0,2007,2012,5,None,Internal,Mid,0,None,Japan
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2006,2021,15,Giants,Internal,Long,2,Giants,Brazil
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2006,2020,14,No Budget,Internal,Long,2,No Budget,China
+Information,1,1,0,1,0,0,0,0,0,0,0,0,0,2007,2019,12,Giants,Internal,Long,3,Giants,France
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2011,2020,9,Giants,Internal,Long,1,Giants,Brazil
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2007,2022,15,Giants,Internal,Long,2,Giants,USA
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2000,2014,14,Giants,Internal,Long,2,Giants,Japan
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2013,2019,6,No Budget,Internal,Mid,2,No Budget,Japan
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2012,2017,5,Giants,Internal,Mid,1,Giants,USA
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2011,2016,5,No Budget,Internal,Mid,2,No Budget,India
+Information,0,1,0,1,0,0,0,0,0,0,1,0,0,2011,2021,10,No Budget,Internal,Long,3,No Budget,Canada
+Information,1,0,0,0,0,1,0,0,0,0,0,0,0,2013,2018,5,Giants,Internal,Mid,2,Giants,France
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2013,2019,6,Giants,Internal,Mid,1,Giants,Australia
+Information,0,0,0,0,0,0,0,1,0,0,0,0,0,2010,2013,3,Niche Limits,Internal,Mid,1,Niche Limits,Brazil
+Information,1,0,0,0,0,1,0,0,0,0,0,0,0,2013,2016,3,Giants,Internal,Mid,2,Giants,USA
+Information,1,0,0,0,0,1,0,0,0,0,0,0,0,2012,2016,4,Giants,Internal,Mid,2,Giants,China
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2007,2021,14,Giants,Internal,Long,2,Giants,Brazil
+Information,0,0,0,0,0,1,0,0,0,0,0,0,0,2009,2013,4,Platform Dependency,Internal,Mid,1,Platform Dependency,Canada
+Information,1,0,1,0,0,0,0,0,0,0,0,0,0,2013,2019,6,Giants,Internal,Mid,2,Giants,China
+Information,0,1,0,1,0,0,0,0,0,0,0,0,0,2009,2011,2,No Budget,Internal,Short,2,No Budget,Germany
+Information,1,0,0,0,0,0,0,0,0,0,0,0,0,2012,2017,5,Giants,Internal,Mid,1,Giants,Japan
